@@ -25,6 +25,6 @@ to
 
 or
 
-`run_karel_program('RampKarel3.w)`
+`run_karel_program('RampKarel3.w')`
 
 you will likely need to press Run (it's fine if you do so without any code written) for the world change to take effect. RampKarel1 is a 7x7 world, RampKarel2 is a 3x3 world, and RampKarel3 is a 25x25 world.
