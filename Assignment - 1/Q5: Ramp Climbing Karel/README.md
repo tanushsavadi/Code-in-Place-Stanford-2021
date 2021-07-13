@@ -16,6 +16,7 @@ You should assume
 - The world is always square (the world's height is the same as its width)
 
 We've provided you three worlds on which to test your code. You can toggle between them by changing the very last line in the file from:
+
 `run_karel_program('RampKarel1.w')`
 
 to
