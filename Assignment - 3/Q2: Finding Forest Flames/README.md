@@ -6,8 +6,6 @@ Recall the average of a pixel, which has red, green and blue values is:
 
 When you detect a “sufficiently red” pixel in the original image, you set its red value to 255 and its green and blue values to 0. This will highlight the pixel by making it entirely red. For all other pixels (i.e., those that are not “sufficiently red”), you should convert them to their grayscale equivalent, so that we can more easily see where the fire is originating from. You can grayscale a pixel by summing together its red, green, and blue values and dividing by three (finding the average), and then setting the pixel’s red, green, and blue values to all have this same “average” value.
 
-<div class="row">
-  <div class="column">
-    <img src="https://static.us.edusercontent.com/files/9dQ4WljnbDcW3n6DFXUg22QG" style="width:100%">
-  </div>
-</div>
+<p align="center">
+  <img width="600" src="https://static.us.edusercontent.com/files/9dQ4WljnbDcW3n6DFXUg22QG" alt="Material Bread logo">
+</p>
