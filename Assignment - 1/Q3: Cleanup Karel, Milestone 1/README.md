@@ -9,3 +9,10 @@ We've provided you two 1x1 worlds (one with a beeper, one without) on which to t
 to
 
 `run_karel_program('SafePickup2.w')` (and vise versa).
+
+For example, to use the SafePickup1.w world:
+`def main():
+    # ... your code ...
+
+if __name__ == '__main__':
+    run_karel_program('SafePickup1.w')`
