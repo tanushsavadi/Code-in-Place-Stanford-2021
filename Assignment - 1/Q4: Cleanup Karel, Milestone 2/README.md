@@ -20,6 +20,8 @@ We've provided you two worlds on which to test your code. You can toggle between
 
 to
 
-`run_karel_program('Cleanup2.w')` (and vice versa) -- you will likely need to press Run (it's fine if you do so without any code written) for the world change to take effect.
+`run_karel_program('Cleanup2.w')`
+
+(and vice versa) -- you will likely need to press Run (it's fine if you do so without any code written) for the world change to take effect.
 
 
