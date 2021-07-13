@@ -10,8 +10,11 @@ When you detect a “sufficiently red” pixel in the original image, you set it
   <img width="600" src="https://github.com/CodingForTheBetter/Code-in-Place-Stanford-2021/blob/main/Assignment%20-%203/Q2:%20Finding%20Forest%20Flames/forest%20fires.jpg?raw=true" >
 </p>
 
-_Original forest fire image on left, and highlighted version of image on right._
+<p align="center">
+  Original forest fire image on left, and highlighted version of image on right.
 
+</p>
+  
 Once you highlight the areas that are on fire in the image (and greyscale all the remaining pixels), you should see an image like that shown on the right in the figure. On the left side of the example image, we should the original image for comparison. 
 
 Note: to make this algorithm work on different images of fire, select an appropriate INTENSITY_THRESHOLD value.
