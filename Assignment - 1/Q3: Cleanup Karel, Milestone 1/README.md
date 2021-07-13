@@ -12,8 +12,10 @@ to
 
 For example, to use the SafePickup1.w world:
 
-`def main():
+```python
+def main():
     # ... your code ...
 
 if __name__ == '__main__':
-    run_karel_program('SafePickup1.w')`
+    run_karel_program('SafePickup1.w')
+```
