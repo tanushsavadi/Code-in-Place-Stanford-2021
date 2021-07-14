@@ -19,3 +19,8 @@ CS106A is one of the most popular courses at Stanford University, taken by almos
 - [Karel documentation website](https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html)
 - [Python](https://codeinplace2021.github.io/pythonreader/en/intro/)
 - [Practical Python](https://practical.learnpython.dev/)
+
+Note:
+This github repo is meant to store everything that I did in Code In Place 2021. I have no intention to copy and share the content made by CIP elsewhere. I wish to record my progress  here and also use it as a memeory lane for the future. All credits go to the CIP staff and teachers who made this possible. I am *NOT* the owner of this content. I have only solved the problems created by CIP and put it on this repo.
+
+Thank you CIP! 
