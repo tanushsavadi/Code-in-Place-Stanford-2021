@@ -32,6 +32,7 @@ Merlin realized they couldn't keep all those durian to themselves,
 so they sold them at the market for $1.55 apiece,
 and with the earnings bought fruit to share with the entire village!
 Legend says 100 years later, Merlin is still eating fruit.
+
 """
 
 WIZARD = 'Merlin'
