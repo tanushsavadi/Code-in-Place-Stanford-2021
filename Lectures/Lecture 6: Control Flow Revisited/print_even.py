@@ -2,6 +2,7 @@
 Print Even Numbers
 Write a program to print the first 100 even numbers
 
+
 Example of using the index variable of a for loop
 """
 
