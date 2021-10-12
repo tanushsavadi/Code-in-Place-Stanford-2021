@@ -132,7 +132,6 @@ def print_welcome():
     print('paper beats rock')
     print('----------------------------------------------')
     print('')
-    
 
 if __name__ == '__main__':
     main()
