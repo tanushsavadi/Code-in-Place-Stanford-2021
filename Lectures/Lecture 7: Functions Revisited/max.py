@@ -10,5 +10,6 @@ def max(num_1, num_2):
 		return num_2
 	return num_1
 
+
 if __name__ == '__main__':
 	main()
